@@ -1,0 +1,9 @@
+.countdown{
+    display: flex;
+    justify-content: space-between;
+    max-width: 400px;
+    margin: 50px auto;
+}
+.countdown div{
+    font-size: 50px;
+}
